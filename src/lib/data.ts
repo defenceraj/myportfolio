@@ -65,8 +65,8 @@ avatar: "/rajkumar.png",
       title: "E-commerce Platform",
       description: "A full-featured e-commerce site with product listings, a shopping cart, and a secure checkout process.",
       image: "/ecommerce.png",
-      tags: ["React", "Node.js", "MongoDB"],
-      link: "#",
+      tags: ["React", "Tailwind CSS", "JavaScript","Html",],
+      link: "http://rajkumardeveloper.vercel.app",
       aiHint: "online store"
     },
     {
