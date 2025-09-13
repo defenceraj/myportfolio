@@ -64,7 +64,7 @@ avatar: "/rajkumar.png",
     {
       title: "E-commerce Platform",
       description: "A full-featured e-commerce site with product listings, a shopping cart, and a secure checkout process.",
-      image: "https://picsum.photos/600/400",
+      image: "/ecommerce.png",
       tags: ["React", "Node.js", "MongoDB"],
       link: "#",
       aiHint: "online store"
@@ -72,7 +72,7 @@ avatar: "/rajkumar.png",
     {
       title: "Task Management App",
       description: "A productivity app for organizing tasks, setting deadlines, and collaborating with team members.",
-      image: "https://picsum.photos/600/400",
+      image: "/track.png",
       tags: ["Next.js", "Firebase", "Tailwind CSS"],
       link: "#",
       aiHint: "organizer planner"
@@ -80,7 +80,7 @@ avatar: "/rajkumar.png",
     {
       title: "Portfolio Website",
       description: "A personal portfolio to showcase my skills and projects, built with a focus on design and user experience.",
-      image: "https://picsum.photos/600/400",
+      image: "/portfolio.png",
       tags: ["React", "TypeScript", "Framer Motion"],
       link: "#",
       aiHint: "personal website"
