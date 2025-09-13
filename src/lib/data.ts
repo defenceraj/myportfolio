@@ -66,7 +66,7 @@ avatar: "/rajkumar.png",
       description: "A full-featured e-commerce site with product listings, a shopping cart, and a secure checkout process.",
       image: "/ecommerce.png",
       tags: ["React", "Tailwind CSS", "JavaScript","Html",],
-      link: "http://rajkumardeveloper.vercel.app",
+      link: "http://e-commerce-zeta-two-59.vercel.app",
       aiHint: "online store"
     },
     {
