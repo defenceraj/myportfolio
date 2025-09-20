@@ -70,12 +70,12 @@ avatar: "/rajkumar.png",
       aiHint: "online store"
     },
     {
-      title: "Task Management App",
-      description: "A productivity app for organizing tasks, setting deadlines, and collaborating with team members.",
-      image: "/track.png",
-      tags: ["Next.js", "Firebase", "Tailwind CSS"],
-      link: "#",
-      aiHint: "organizer planner"
+      title: "FOOD Cart App",
+      description: "A food delivery app that allows users to browse restaurants, view menus, and place orders.",
+      image: "/Foodbaba.png",
+      tags: ["HTML", "JavaScript", "Tailwind CSS"],
+      link: "https://ricepes-git-main-raj-kumar-kanaujiyas-projects.vercel.app",
+      aiHint: "food delivery"
     },
     {
       title: "Portfolio Website",
